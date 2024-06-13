@@ -1,5 +1,4 @@
 pickle-mixin
-collections
 matplotlib
 streamlit
 pandas
