@@ -2,4 +2,4 @@ pickle-mixin
 matplotlib
 streamlit
 pandas
-textwrap
+textwrap3
