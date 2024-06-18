@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'ModerationContentMonitor'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9E873CCED0D84CC290FABC1E72FD60CF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F747652ACF9844D4A10DD1C0B3B4307B }}
